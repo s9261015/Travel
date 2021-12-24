@@ -100,7 +100,58 @@
 			"name": "阿和肉燥飯",
 			"open": "06:00–15:00",
 			"address": "台南市中西區府前路一段12號",
-			"post": "https://fairylolita.com/post-463946309/"
+			"post": "https://fairylolita.com/post-463946309"
+		},
+		{
+			"name": "台南府前碳佐麻里",
+			"open": "11:00–00:00",
+			"address": "台南市安平區府前路二段630號",
+			"post": "https://margaret.tw/tanzuomali-tainan"
+		}
+	],
+	"attraction": [
+		{
+			"name": "十鼓仁糖文創園區",
+			"open": "10:00–20:20",
+			"address": "台南市仁德區文華路二段326號",
+			"post": "https://www.klook.com/zh-TW/activity/27309-ten-drum-cultural-village-ticket-tainan"
+		},
+		{
+			"name": "頂頭額沙洲",
+			"open": "NA",
+			"address": "台南市七股區",
+			"post": "https://www.klook.com/zh-TW/blog/half-day-trip-tainan"
+		},
+		{
+			"name": "安平定情碼頭德陽艦園區",
+			"open": "09:00-18:00",
+			"address": "台南市安平區安億路115號",
+			"post": "https://www.klook.com/zh-TW/activity/39360-teyang-navy-destroyer-museum-ticket-tainan"
+		},
+		{
+			"name": "大魚的祝福",
+			"open": "NA",
+			"address": "台南市安平區安億橋邊安億路旁港濱歷史公園",
+			"post": "https://journey.tw/big-fish-bless"
+		},
+		{
+			"name": "台江國家公園",
+			"open": "09:00–17:00",
+			"address": "台南市安南區四草大道118號",
+			"post": "https://fullfenblog.tw/tn-taijiang-national-park"
+		},
+		{
+			"name": "奇美博物館",
+			"open": "09:30–17:30",
+			"address": "台南市仁德區文華路二段66號",
+			"post": "https://www.klook.com/zh-TW/activity/56261-chimei-museum-real-escape-game"
+		},
+		{
+			"name": "臺南柳營運動靶場",
+			"open": "09:30–18:00",
+			"address": "台南市柳營區旭山4號",
+			"post": "https://yago0214.pixnet.net/blog/post/556302421"
 		}
 	]
+
 }
